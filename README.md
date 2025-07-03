@@ -1,7 +1,4 @@
 # task-07-basic-sales-summary
-SQL + Python mini project: Generate a simple sales summary and revenue chart using SQLite, pandas, and matplotlib.
-
-
 
 This mini‑project illustrates how to:
 
@@ -10,9 +7,7 @@ This mini‑project illustrates how to:
 3. Print results with `pandas` and `matplotlib`
 
 
- How to Run
-
-bash
+ How to Run:
 1. (Optional) Create and activate a virtual environment
 python -m venv .venv
 .venv\Scripts\activate  # (on Windows)
